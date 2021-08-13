@@ -6,5 +6,5 @@ COPY ./page2.html /usr/share/nginx/html/page2.html
 COPY ./page3.html /usr/share/nginx/html/page3.html
 
 
-EXPOSE 80
+EXPOSE 8080
 
